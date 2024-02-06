@@ -1,3 +1,4 @@
-- pool: Azure Pipelines
+pool: Azure Pipelines
 
+steps:
 - bash: echo hello world
